@@ -1,5 +1,8 @@
 <template>
-  <homepage/>
+  <div>
+    <homepage/>
+    <Footer/>
+  </div>
 </template>
 
 <script>
